@@ -1,0 +1,6 @@
+{
+  "exec": "ts-node-esm server.ts",
+  "ext": "ts,tsx,json",
+  "ignore": ["src/**/*.spec.ts"],
+  "watch": ["server", "src"]
+}
